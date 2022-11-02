@@ -1,0 +1,7 @@
+chrome-*.json
+.DS_Store
+node_modules/
+dist/*.d.ts
+dist/package.json
+.cache/
+coverage/
